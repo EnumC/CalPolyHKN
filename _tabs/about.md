@@ -1,7 +1,7 @@
 ---
-title: Welcome to HKN!
-icon: fas fa-info-circle
-order: 4
+title: Home
+icon: fas fa-home
+order: 0
 ---
 
 
